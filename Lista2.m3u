@@ -50,3 +50,12 @@ http://s846397078.mialojamiento.es/o6vd/mp.php/http://50.7.164.28:8081/6/index.m
 
 #EXTINF:-1, private
 http://s846397078.mialojamiento.es/o6vd/mp.php/http://50.7.164.28:8081/11/index.m3u8?wmsAuthSign=1623144211p89i18i561i28Sef949f7374147517eeeb35bc93732d2d
+
+#EXTINF:-1, reglind
+http://s846397078.mialojamiento.es/o6vd/mp.php/http://50.7.164.28:8081/12/index.m3u8?wmsAuthSign=1623145030p89i18i561i28Sbb39c022164107a25ccfba596fe4e828
+
+#EXTINF:-1, vivido red
+http://s846397078.mialojamiento.es:80/o6vd/mp.php/http://50.7.164.28:8081/7/index.m3u8?wmsAuthSign=1623153134p89i18i561i28S1440982a17b1599d57b3d0d99bed4f47
+
+#EXTINF:-1, xxl
+http://s846397078.mialojamiento.es:80/o6vd/mp.php/http://50.7.164.28:8081/30/index.m3u8?wmsAuthSign=1623137378p89i18i561i28S94f370bf1bd7216bdaf9426ce5a282b0
